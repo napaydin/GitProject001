@@ -7,6 +7,7 @@ public class Class1 {
 		
 		//Hello everyone
 		//welcome to Git Sessions
+		//Thank you for joining
 
 	}
 
