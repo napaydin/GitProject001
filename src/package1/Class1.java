@@ -10,6 +10,7 @@ public class Class1 {
 		//Thank you for joining
 		//Here is a new commit
 		//Here is remote change
+		//nur deneme
 
 	}
 
